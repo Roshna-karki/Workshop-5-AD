@@ -7,8 +7,8 @@
         Console.WriteLine($"Account Number: {account.AccountNumber}");
         Console.WriteLine($"Opening Balance: {account.Balance}");
 
-        account.Deposit(500000);
-        account.Withdraw(30000);
+        account.Deposit(600000);
+        account.Withdraw(40000);
 
         Console.WriteLine($"Remaining Balance: {account.Balance}");
     }
