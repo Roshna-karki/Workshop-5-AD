@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\3rd year\Application Development Workshop\Workshop 5\Task 1\bin\Debug\net9.0\Task 1.exe
+C:\Users\asus\Desktop\3rd year\Application Development Workshop\Workshop 5\Task 1\bin\Debug\net9.0\Task 1.deps.json
+C:\Users\asus\Desktop\3rd year\Application Development Workshop\Workshop 5\Task 1\bin\Debug\net9.0\Task 1.runtimeconfig.json
+C:\Users\asus\Desktop\3rd year\Application Development Workshop\Workshop 5\Task 1\bin\Debug\net9.0\Task 1.dll
+C:\Users\asus\Desktop\3rd year\Application Development Workshop\Workshop 5\Task 1\bin\Debug\net9.0\Task 1.pdb
+C:\Users\asus\Desktop\3rd year\Application Development Workshop\Workshop 5\Task 1\obj\Debug\net9.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\3rd year\Application Development Workshop\Workshop 5\Task 1\obj\Debug\net9.0\Task 1.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\3rd year\Application Development Workshop\Workshop 5\Task 1\obj\Debug\net9.0\Task 1.AssemblyInfo.cs
+C:\Users\asus\Desktop\3rd year\Application Development Workshop\Workshop 5\Task 1\obj\Debug\net9.0\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\3rd year\Application Development Workshop\Workshop 5\Task 1\obj\Debug\net9.0\Task 1.sourcelink.json
+C:\Users\asus\Desktop\3rd year\Application Development Workshop\Workshop 5\Task 1\obj\Debug\net9.0\Task 1.dll
+C:\Users\asus\Desktop\3rd year\Application Development Workshop\Workshop 5\Task 1\obj\Debug\net9.0\refint\Task 1.dll
+C:\Users\asus\Desktop\3rd year\Application Development Workshop\Workshop 5\Task 1\obj\Debug\net9.0\Task 1.pdb
+C:\Users\asus\Desktop\3rd year\Application Development Workshop\Workshop 5\Task 1\obj\Debug\net9.0\Task 1.genruntimeconfig.cache
+C:\Users\asus\Desktop\3rd year\Application Development Workshop\Workshop 5\Task 1\obj\Debug\net9.0\ref\Task 1.dll
